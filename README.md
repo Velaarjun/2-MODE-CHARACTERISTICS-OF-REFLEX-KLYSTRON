@@ -17,8 +17,8 @@ To study mode characteristics of reflex klystron and hence to determine mode num
 9.	Cathode Ray Oscilloscope Scientech -801C
     
 **Experimental Setup:**
-<img width="1449" height="752" alt="image" src="https://github.com/user-attachments/assets/972ae0ad-4abe-40cd-b08a-5551ae0429bf" />
 
+<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
 
 <img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
 
@@ -54,8 +54,10 @@ Mechanical and Electronic Tuning
 Mechanical tuning depends on changing the width of cavity i.e. the effective I capacitance and thus the resonant frequency of the klystron changes. The power output remains same with tuning.
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
-**Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
+**Observation:**
+
+<img src="https://github.com/user-attachments/assets/e99f5646-0d15-4d02-ae63-e6c65dd061d4" width="400">
+
 
 **CALCULATIONS:**
 
@@ -76,6 +78,11 @@ Electronic tuning refers to change in repeller voltage causing a change in outpu
 12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
 13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
 
-    **Result:**
+ **Result:**
    	
-The mode characteristics of the Reflex Klystron were studied by varying the repeller voltage and observing the output power. Different oscillation modes were identified, and the maximum output power for each mode was obtained at specific repeller voltages.
+Thus, the experiment confirms the reflex klystron’s suitability as a reliable, variable-frequency microwave source for laboratory applications.	
+			
+			
+			
+			
+			
